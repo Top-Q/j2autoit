@@ -1,0 +1,8 @@
+<sut>
+	<autoit>
+		<class>com.jsystem.j2autoit.AutoItClient</class>
+		<autoItLocation>c:\\Program Files\\AutoIt3\\AutoIt3.exe</autoItLocation>
+		<host>127.0.0.1</host>
+		<port>8888</port>
+	</autoit>
+</sut>

@@ -1,0 +1,30 @@
+# generic files to ignore
+*.log
+*.tmp
+*~
+*.lock
+*.DS_Store
+*.swp
+*.out
+[Tt]humbs.db
+
+#Eclipse files
+.project
+.classpath
+.settings
+
+#Java and Maven
+*.class
+*.jar
+target
+lib
+
+#JSystem files
+.ant.properties
+.testPropertiesFile_Empty
+jsystem.properties
+testtimes.properties
+jsystem.properties.bu
+runnerState.properties
+log
+*.xml.versionsBackup
